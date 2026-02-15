@@ -3,5 +3,5 @@
 Этот алгоритм всегда поможет вам сориентироваться, что делать на любом из
 этапов работы с задачами.
 
-![present_image_5](images/12_problem_solving_1.jpg)
+![problem_solving_1](images/12_problem_solving_1.jpg)
 
