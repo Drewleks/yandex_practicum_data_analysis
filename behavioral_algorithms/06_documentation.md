@@ -16,7 +16,6 @@
 https://docs.python.org/3/library/functions.html.
 
 Посмотрим внимательно на составляющие страницы
-
 ![doc_image_1](images/06_documentation_1.jpg)
 ---
 ![doc_image_2](images/06_documentation_2.jpg)
