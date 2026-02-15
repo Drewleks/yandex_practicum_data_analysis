@@ -1,19 +1,8 @@
-# Аналитик данных — Яндекс.Практикум
-[![Аналитик данных — Яндекс.Практикум](/logo.png)](https://praktikum.yandex.ru/data-analyst/)
+# Аналитик данных — Яндекс Практикум, 2020 год
 
-Ссылка на курс: https://praktikum.yandex.ru/data-analyst/
+В репозитории аналитические проекты и [методички по поведенческим алгоритмам](behavioral_algorithms).
 
-
-## Описание:
-В репозитории аналитические проекты и [методички по поведенческим алгоритмам](https://github.com/Drewleks/yandex_praktikum/tree/master/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D1%87%D0%BA%D0%B8%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%BC%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0%D0%BC).
-
-## Как выглядит программа:
-![Аналитик данных — программа](/program.png)
-
-## Как выглядит сертификат ([PDF-версия](certificate/certificate.pdf)):
-![Аналитик данных — сертификат](/certificate/certificate-1.png)
-
-## Описание проектов:
+## Проекты:
 | Номер проекта | Название и ссылка | О чем проект                                                     |
 |---------------|-------------------|------------------------------------------------------------------|
 |1              |[Исследование музыки больших городов](https://nbviewer.jupyter.org/github/Drewleks/yandex_praktikum/blob/master/1.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Python%20%D0%B8%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/music_project.ipynb)|Сравниваем, что и в каком режиме слушают жители. Исследуем предпочтения и поведение пользователей Яндекс.Музыки|
@@ -30,5 +19,3 @@
 |12             |[Аналитика фитнес-клуба](https://nbviewer.jupyter.org/github/Drewleks/yandex_praktikum/blob/master/12.%20%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D1%8B%20%D0%B8%20%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F/gym_project.ipynb)|Наша задача — провести анализ и подготовить план действий по удержанию клиентов и научиться прогнозировать вероятность оттока|
 |13             |Выпускной проект: [SQL](https://nbviewer.jupyter.org/github/Drewleks/yandex_praktikum/blob/master/13.%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/sql.ipynb), [AB](https://nbviewer.jupyter.org/github/Drewleks/yandex_praktikum/blob/master/13.%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/ab.ipynb), [Исследование](https://nbviewer.jupyter.org/github/Drewleks/yandex_praktikum/blob/master/13.%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/ecommerce.ipynb), [Презентация](https://github.com/Drewleks/yandex_praktikum/blob/master/13.%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pdf)|Тут анализируем товарный ассортимент интернет-магазина, делаем задания по A/B-тестированию и SQL|
 
----
-P.S. Кириллица и пробелы — моветон, согласен. ;)
